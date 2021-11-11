@@ -1,2 +1,2 @@
 # Green-Store
-[https://greenstore-gb.netlify.app/]
+[Green Store](https://greenstore-gb.netlify.app/).
